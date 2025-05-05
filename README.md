@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Goncagül Ayaz
 
-<!--
-**goncagulayazz/goncagulayazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mathematical Engineer** passionate about leveraging data for smarter decisions  
+📊 Specialized in **data analysis**, **forecasting**, **optimization**, and **image processing**  
+💻 Proficient in **Python**, **R**, **GAMS**, and **Excel**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas of Interest
+- 📈 Demand Forecasting & Time Series Analysis  
+- 🧮 Mathematical Optimization & Modeling  
+- 🖼️ Image Processing & Computer Vision  
+- 🧠 Decision Support Systems  
+- 🤖 AI-Powered Optimization Techniques
+
+---
+
+## 🧰 Tools & Technologies
+- **Python**: Pandas, Scikit-learn, OpenCV, Matplotlib  
+- **R / RStudio**  
+- **GAMS**  
+- **Excel / Power BI**
+
+---
+
+## 📫 Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/goncagul-ayaz)
