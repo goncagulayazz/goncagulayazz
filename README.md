@@ -2,7 +2,7 @@
 
 🎓 **Mathematical Engineer** passionate about leveraging data for smarter decisions  
 📊 Specialized in **data analysis**, **forecasting**, **optimization**, and **image processing**  
-💻 Proficient in **Python**, **R**, **GAMS**, and **Excel**
+💻 Proficient in **Python**, **SQL**, **R**, **GAMS**, and **Excel**
 
 ---
 
