@@ -16,7 +16,8 @@
 ---
 
 ## 🧰 Tools & Technologies
-- **Python**: Pandas, Scikit-learn, OpenCV, Matplotlib  
+- **Python**: Pandas, Scikit-learn, OpenCV, Matplotlib
+- **SQL**
 - **R / RStudio**  
 - **GAMS**  
 - **Excel / Power BI**
